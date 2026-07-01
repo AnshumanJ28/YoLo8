@@ -1,0 +1,13 @@
+ultralytics
+supervision
+opencv-python
+gradio
+mlflow
+torch
+torchvision
+numpy
+pandas
+matplotlib
+tqdm
+PyYAML
+requests
